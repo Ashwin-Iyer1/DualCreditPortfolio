@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DualCreditPortfolio/static/css/main.a90b5b13.css",
-    "main.js": "/DualCreditPortfolio/static/js/main.0a376966.js",
+    "main.js": "/DualCreditPortfolio/static/js/main.6a136f26.js",
     "static/js/453.4c9351f1.chunk.js": "/DualCreditPortfolio/static/js/453.4c9351f1.chunk.js",
     "static/media/Bailey.png": "/DualCreditPortfolio/static/media/Bailey.66a6477ac798967720b2.png",
     "static/media/Ashwin.jpg": "/DualCreditPortfolio/static/media/Ashwin.62b30b166597123ba352.jpg",
@@ -13,15 +13,16 @@
     "static/media/LitCircle.JPG": "/DualCreditPortfolio/static/media/LitCircle.a1043ed0f943a3bdb8bb.JPG",
     "static/media/NeoclassNotes.JPG": "/DualCreditPortfolio/static/media/NeoclassNotes.bdb36116fa575cd7092e.JPG",
     "static/media/Cameron.jpg": "/DualCreditPortfolio/static/media/Cameron.8886cd6440770873066d.jpg",
+    "static/media/LitCircle26.png": "/DualCreditPortfolio/static/media/LitCircle26.708664d5c94cf40619f2.png",
     "static/media/DualEssay.JPG": "/DualCreditPortfolio/static/media/DualEssay.ac0d5ac92dfd9b72ac1e.JPG",
     "static/media/DigitalMedium.JPG": "/DualCreditPortfolio/static/media/DigitalMedium.335cc3c72cf820400b12.JPG",
     "index.html": "/DualCreditPortfolio/index.html",
     "main.a90b5b13.css.map": "/DualCreditPortfolio/static/css/main.a90b5b13.css.map",
-    "main.0a376966.js.map": "/DualCreditPortfolio/static/js/main.0a376966.js.map",
+    "main.6a136f26.js.map": "/DualCreditPortfolio/static/js/main.6a136f26.js.map",
     "453.4c9351f1.chunk.js.map": "/DualCreditPortfolio/static/js/453.4c9351f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a90b5b13.css",
-    "static/js/main.0a376966.js"
+    "static/js/main.6a136f26.js"
   ]
 }
