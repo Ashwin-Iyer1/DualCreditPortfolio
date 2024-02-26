@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25760667.css",
+    "main.js": "/static/js/main.6a00a38c.js",
+    "static/js/453.4c9351f1.chunk.js": "/static/js/453.4c9351f1.chunk.js",
+    "static/media/Ashwin.jpg": "/static/media/Ashwin.62b30b166597123ba352.jpg",
+    "static/media/NeoclassPres.JPG": "/static/media/NeoclassPres.2c7cce860e274fb90e59.JPG",
+    "static/media/AgeOfRevNotes.JPG": "/static/media/AgeOfRevNotes.a9847a137ec8931e8765.JPG",
+    "static/media/TudorAgeNotes.JPG": "/static/media/TudorAgeNotes.af8abfe86088f3ba5064.JPG",
+    "static/media/LitCircle.JPG": "/static/media/LitCircle.a1043ed0f943a3bdb8bb.JPG",
+    "static/media/NeoclassNotes.JPG": "/static/media/NeoclassNotes.bdb36116fa575cd7092e.JPG",
+    "static/media/Cameron.jpg": "/static/media/Cameron.8886cd6440770873066d.jpg",
+    "static/media/DualEssay.JPG": "/static/media/DualEssay.ac0d5ac92dfd9b72ac1e.JPG",
+    "static/media/DigitalMedium.JPG": "/static/media/DigitalMedium.335cc3c72cf820400b12.JPG",
+    "index.html": "/index.html",
+    "main.25760667.css.map": "/static/css/main.25760667.css.map",
+    "main.6a00a38c.js.map": "/static/js/main.6a00a38c.js.map",
+    "453.4c9351f1.chunk.js.map": "/static/js/453.4c9351f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25760667.css",
+    "static/js/main.6a00a38c.js"
+  ]
+}
