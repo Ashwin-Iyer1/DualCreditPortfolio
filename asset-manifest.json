@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/DualCreditPortfolio/static/css/main.25760667.css",
-    "main.js": "/DualCreditPortfolio/static/js/main.d5722015.js",
+    "main.css": "/DualCreditPortfolio/static/css/main.a90b5b13.css",
+    "main.js": "/DualCreditPortfolio/static/js/main.0a376966.js",
     "static/js/453.4c9351f1.chunk.js": "/DualCreditPortfolio/static/js/453.4c9351f1.chunk.js",
+    "static/media/Bailey.png": "/DualCreditPortfolio/static/media/Bailey.66a6477ac798967720b2.png",
     "static/media/Ashwin.jpg": "/DualCreditPortfolio/static/media/Ashwin.62b30b166597123ba352.jpg",
+    "static/media/Catalina.jpg": "/DualCreditPortfolio/static/media/Catalina.b2455bdc4429825fedce.jpg",
+    "static/media/Jonathan.jpg": "/DualCreditPortfolio/static/media/Jonathan.114424b7c3c39fb2b004.jpg",
     "static/media/NeoclassPres.JPG": "/DualCreditPortfolio/static/media/NeoclassPres.2c7cce860e274fb90e59.JPG",
     "static/media/AgeOfRevNotes.JPG": "/DualCreditPortfolio/static/media/AgeOfRevNotes.a9847a137ec8931e8765.JPG",
     "static/media/TudorAgeNotes.JPG": "/DualCreditPortfolio/static/media/TudorAgeNotes.af8abfe86088f3ba5064.JPG",
@@ -13,12 +16,12 @@
     "static/media/DualEssay.JPG": "/DualCreditPortfolio/static/media/DualEssay.ac0d5ac92dfd9b72ac1e.JPG",
     "static/media/DigitalMedium.JPG": "/DualCreditPortfolio/static/media/DigitalMedium.335cc3c72cf820400b12.JPG",
     "index.html": "/DualCreditPortfolio/index.html",
-    "main.25760667.css.map": "/DualCreditPortfolio/static/css/main.25760667.css.map",
-    "main.d5722015.js.map": "/DualCreditPortfolio/static/js/main.d5722015.js.map",
+    "main.a90b5b13.css.map": "/DualCreditPortfolio/static/css/main.a90b5b13.css.map",
+    "main.0a376966.js.map": "/DualCreditPortfolio/static/js/main.0a376966.js.map",
     "453.4c9351f1.chunk.js.map": "/DualCreditPortfolio/static/js/453.4c9351f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25760667.css",
-    "static/js/main.d5722015.js"
+    "static/css/main.a90b5b13.css",
+    "static/js/main.0a376966.js"
   ]
 }
