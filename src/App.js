@@ -14,6 +14,7 @@ import LitCircle from './ItemsPhotos/LitCircle.JPG'
 import DualEssay from './ItemsPhotos/DualEssay.JPG'
 import NeoclassPreset from './ItemsPhotos/NeoclassPres.JPG'
 import TudorAgeNotes from './ItemsPhotos/TudorAgeNotes.JPG'
+import LitCircle26 from './ItemsPhotos/LitCircle26.png'
 function App() {
   return (
     <div className="App">
@@ -114,6 +115,7 @@ function App() {
                     </a>
                     </p>
                 </div>
+              
               </div>
               
               
@@ -129,12 +131,11 @@ function App() {
                   <a href={'https://docs.google.com/document/d/1aknfhrteHnwHD3UU8y802ig0wym2o9VCuuPMN8IqXIA/edit?usp=sharing'} target='_blank'>
                   <img src={LitCircle} id={'Doc'}/>
                   </a>
-                                    <p>
+                  <p>
                   <a href={'https://docs.google.com/document/d/1aknfhrteHnwHD3UU8y802ig0wym2o9VCuuPMN8IqXIA/edit?usp=sharing'} target='_blank'>
-                    Literature Circle
-                    </a>
+                    Literature Circle (January 30)
+                  </a>
                     </p>
-
                 </div>
                 <div className="content">
                   <a href={'https://docs.google.com/document/d/1eHFI-gxXO0LkvWeIh5WYuRWTDos2iKKIR4Vz5iFkDZI/edit?usp=sharing'} target='_blank'>
@@ -146,6 +147,16 @@ function App() {
                     </a>
                   </p>
                 </div>
+                <div className="content">
+                  <a href={'https://docs.google.com/document/d/1H0xZJXFTozsVcZFuD5JB5J3P3w8Z_vul8sxf6btq9q4/edit?usp=sharing'} target='_blank'>
+                    <img src={LitCircle26} id={'Doc'}/>
+                  </a>
+                  <p>
+                    <a href={'https://docs.google.com/document/d/1H0xZJXFTozsVcZFuD5JB5J3P3w8Z_vul8sxf6btq9q4/edit?usp=sharing'} target='_blank'>
+                      Literature Circle (February 26-29)
+                    </a>
+                  </p>
+                  </div>
               </div>
             </div>
             <div class="slide" data-anchor="slide3"> 
@@ -176,11 +187,11 @@ function App() {
                 <h3>Articulating Aesthetic Principles</h3>
               <div className="items">
               <div className="content">
-                  <a href={'https://dual-credit-quiz.vercel.app/'} target='_blank'>
+                  <a href={'https://docs.google.com/document/d/1RinwnkyQC7mDUTNIEI8juDxi1EGEy6wQffFEto_xyvE/edit?usp=sharing'} target='_blank'>
                   <img src={DigitalMedium} id={'Doc'}/>
                   </a>
                   <p>
-                  <a href={'https://dual-credit-quiz.vercel.app/'} target='_blank'>
+                  <a href={'https://docs.google.com/document/d/1RinwnkyQC7mDUTNIEI8juDxi1EGEy6wQffFEto_xyvE/edit?usp=sharing'} target='_blank'>
                     Digital Medium Project
                     </a>
                     </p>
@@ -246,11 +257,11 @@ function App() {
                     </p>
                 </div>
                 <div className="content">
-                  <a href={'https://dual-credit-quiz.vercel.app/'} target='_blank'>
+                  <a href={'https://docs.google.com/document/d/1RinwnkyQC7mDUTNIEI8juDxi1EGEy6wQffFEto_xyvE/edit?usp=sharing'} target='_blank'>
                   <img src={DigitalMedium} id={'Doc'}/>
                   </a>
                   <p>
-                  <a href={'https://dual-credit-quiz.vercel.app/'} target='_blank'>
+                  <a href={'https://docs.google.com/document/d/1RinwnkyQC7mDUTNIEI8juDxi1EGEy6wQffFEto_xyvE/edit?usp=sharing'} target='_blank'>
                     Digital Medium Project
                     </a>
                     </p>
@@ -271,7 +282,7 @@ function App() {
                   </a>
                   <p>
                   <a href={'https://docs.google.com/document/d/1aknfhrteHnwHD3UU8y802ig0wym2o9VCuuPMN8IqXIA/edit?usp=sharing'} target='_blank'>
-                    Literature Circle
+                    Literature Circle (January 30)
                     </a>
                     </p>
                 </div>
@@ -295,7 +306,16 @@ function App() {
                     </a>
                   </p>
                 </div>
-                
+                <div className="content">
+                  <a href={'https://docs.google.com/document/d/1H0xZJXFTozsVcZFuD5JB5J3P3w8Z_vul8sxf6btq9q4/edit?usp=sharing'} target='_blank'>
+                    <img src={LitCircle26} id={'Doc'}/>
+                  </a>
+                  <p>
+                    <a href={'https://docs.google.com/document/d/1H0xZJXFTozsVcZFuD5JB5J3P3w8Z_vul8sxf6btq9q4/edit?usp=sharing'} target='_blank'>
+                      Literature Circle (February 26-29)
+                    </a>
+                  </p>
+                  </div>
               </div>
             </div>
             <div class="slide" data-anchor="slide8"> 
@@ -335,15 +355,16 @@ function App() {
                     </p>
                 </div>
                 <div className="content">
-                  <a href={'https://dual-credit-quiz.vercel.app/'} target='_blank'>
+                  <a href={'https://docs.google.com/document/d/1RinwnkyQC7mDUTNIEI8juDxi1EGEy6wQffFEto_xyvE/edit?usp=sharing'} target='_blank'>
                   <img src={DigitalMedium} id={'Doc'}/>
                   </a>
                   <p>
-                  <a href={'https://dual-credit-quiz.vercel.app/'} target='_blank'>
+                  <a href={'https://docs.google.com/document/d/1RinwnkyQC7mDUTNIEI8juDxi1EGEy6wQffFEto_xyvE/edit?usp=sharing'} target='_blank'>
                     Digital Medium Project
                     </a>
                     </p>
                 </div>
+                
                
               </div>
             </div>
@@ -360,7 +381,7 @@ function App() {
                   </a>
                                     <p>
                   <a href={'https://docs.google.com/document/d/1aknfhrteHnwHD3UU8y802ig0wym2o9VCuuPMN8IqXIA/edit?usp=sharing'} target='_blank'>
-                    Literature Circle
+                    Literature Circle (January 30)
                     </a>
                     </p>
 
@@ -386,7 +407,16 @@ function App() {
                     </a>
                   </p>
                 </div>
-                
+                <div className="content">
+                  <a href={'https://docs.google.com/document/d/1H0xZJXFTozsVcZFuD5JB5J3P3w8Z_vul8sxf6btq9q4/edit?usp=sharing'} target='_blank'>
+                    <img src={LitCircle26} id={'Doc'}/>
+                  </a>
+                  <p>
+                    <a href={'https://docs.google.com/document/d/1H0xZJXFTozsVcZFuD5JB5J3P3w8Z_vul8sxf6btq9q4/edit?usp=sharing'} target='_blank'>
+                      Literature Circle (February 26-29)
+                    </a>
+                  </p>
+                  </div>
               </div>
             </div>
           </div>
