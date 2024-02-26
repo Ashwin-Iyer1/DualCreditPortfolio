@@ -2,6 +2,7 @@
   text-align: center;
   background-color: blanchedalmond;
   display: flex;
+  max-height: 200vh;
 }
 
 .section {
@@ -9,10 +10,10 @@
   color: black;
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
-  height: 100vh;
+  max-height: 90vh;
 }
 
-.section button {
+.section #coolbutton {
   padding-top: 5px;
   padding-bottom: 5px;
   width: 300px;
@@ -22,6 +23,12 @@
   font-size: 16px;
   cursor: pointer;
   border-radius: 12px;
+  display: inline-block;
+}
+.section #invis{
+  background: transparent;
+  border: none !important;
+    font-size: 0;
 }
 
 .section #person{
@@ -30,9 +37,8 @@
 }
 
 .section #Doc{
-  max-width: 80%;
-  max-height: 700px;
-  
+  width: 70%;
+  max-height: 350px;
   
 }
 .section .content #textLink{
@@ -44,13 +50,11 @@
   max-height: 30%;
   overflow: hidden;
 }
+
 .section .slide .items{
   justify-content: space-around;
   align-items: center;
-  margin-top: 20px;
   position: relative;
   display: inline-block;
-  margin-top: 0%;
   display: flex;
-  margin-top: 5%;
 }
