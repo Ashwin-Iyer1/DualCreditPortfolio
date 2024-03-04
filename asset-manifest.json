@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/DualCreditPortfolio/static/css/main.2e9384e5.css",
-    "main.js": "/DualCreditPortfolio/static/js/main.4fd9c32b.js",
+    "main.js": "/DualCreditPortfolio/static/js/main.6591e486.js",
     "static/js/453.4c9351f1.chunk.js": "/DualCreditPortfolio/static/js/453.4c9351f1.chunk.js",
     "static/media/Bailey.png": "/DualCreditPortfolio/static/media/Bailey.66a6477ac798967720b2.png",
     "static/media/Ashwin.jpg": "/DualCreditPortfolio/static/media/Ashwin.62b30b166597123ba352.jpg",
     "static/media/Catalina.jpg": "/DualCreditPortfolio/static/media/Catalina.b2455bdc4429825fedce.jpg",
     "static/media/Jonathan.jpg": "/DualCreditPortfolio/static/media/Jonathan.114424b7c3c39fb2b004.jpg",
     "static/media/NeoclassPres.JPG": "/DualCreditPortfolio/static/media/NeoclassPres.2c7cce860e274fb90e59.JPG",
+    "static/media/PortfolioReflection.png": "/DualCreditPortfolio/static/media/PortfolioReflection.5546a66bf6ced621b963.png",
     "static/media/AgeOfRevNotes.JPG": "/DualCreditPortfolio/static/media/AgeOfRevNotes.a9847a137ec8931e8765.JPG",
     "static/media/TudorAgeNotes.JPG": "/DualCreditPortfolio/static/media/TudorAgeNotes.af8abfe86088f3ba5064.JPG",
     "static/media/LitCircle.JPG": "/DualCreditPortfolio/static/media/LitCircle.a1043ed0f943a3bdb8bb.JPG",
@@ -18,11 +19,11 @@
     "static/media/DigitalMedium.JPG": "/DualCreditPortfolio/static/media/DigitalMedium.335cc3c72cf820400b12.JPG",
     "index.html": "/DualCreditPortfolio/index.html",
     "main.2e9384e5.css.map": "/DualCreditPortfolio/static/css/main.2e9384e5.css.map",
-    "main.4fd9c32b.js.map": "/DualCreditPortfolio/static/js/main.4fd9c32b.js.map",
+    "main.6591e486.js.map": "/DualCreditPortfolio/static/js/main.6591e486.js.map",
     "453.4c9351f1.chunk.js.map": "/DualCreditPortfolio/static/js/453.4c9351f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e9384e5.css",
-    "static/js/main.4fd9c32b.js"
+    "static/js/main.6591e486.js"
   ]
 }
