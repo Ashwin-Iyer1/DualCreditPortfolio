@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2e9384e5.css",
-    "main.js": "/static/js/main.80daabb6.js",
+    "main.js": "/static/js/main.a32b5ee8.js",
     "static/js/453.4c9351f1.chunk.js": "/static/js/453.4c9351f1.chunk.js",
     "static/media/Ashwin.jpg": "/static/media/Ashwin.9ffa5fe59479d1c6b3ad.jpg",
     "static/media/Bailey.png": "/static/media/Bailey.66a6477ac798967720b2.png",
-    "static/media/Jonathan.jpg": "/static/media/Jonathan.114424b7c3c39fb2b004.jpg",
     "static/media/NeoclassPres.JPG": "/static/media/NeoclassPres.2c7cce860e274fb90e59.JPG",
     "static/media/PortfolioReflection.png": "/static/media/PortfolioReflection.5546a66bf6ced621b963.png",
     "static/media/AgeOfRevNotes.JPG": "/static/media/AgeOfRevNotes.a9847a137ec8931e8765.JPG",
@@ -13,17 +12,18 @@
     "static/media/LitCircle.JPG": "/static/media/LitCircle.a1043ed0f943a3bdb8bb.JPG",
     "static/media/NeoclassNotes.JPG": "/static/media/NeoclassNotes.bdb36116fa575cd7092e.JPG",
     "static/media/Cameron.jpg": "/static/media/Cameron.8886cd6440770873066d.jpg",
+    "static/media/Jonathan.jpg": "/static/media/Jonathan.d9b37eab6bfd4b307e2d.jpg",
     "static/media/LitCircle26.png": "/static/media/LitCircle26.708664d5c94cf40619f2.png",
     "static/media/DualEssay.JPG": "/static/media/DualEssay.ac0d5ac92dfd9b72ac1e.JPG",
     "static/media/Catalina.jpg": "/static/media/Catalina.04cca96d0398cd635d86.jpg",
     "static/media/DigitalMedium.JPG": "/static/media/DigitalMedium.335cc3c72cf820400b12.JPG",
     "index.html": "/index.html",
     "main.2e9384e5.css.map": "/static/css/main.2e9384e5.css.map",
-    "main.80daabb6.js.map": "/static/js/main.80daabb6.js.map",
+    "main.a32b5ee8.js.map": "/static/js/main.a32b5ee8.js.map",
     "453.4c9351f1.chunk.js.map": "/static/js/453.4c9351f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e9384e5.css",
-    "static/js/main.80daabb6.js"
+    "static/js/main.a32b5ee8.js"
   ]
 }
