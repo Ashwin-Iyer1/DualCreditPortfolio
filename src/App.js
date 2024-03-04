@@ -15,6 +15,7 @@ import DualEssay from './ItemsPhotos/DualEssay.JPG'
 import NeoclassPreset from './ItemsPhotos/NeoclassPres.JPG'
 import TudorAgeNotes from './ItemsPhotos/TudorAgeNotes.JPG'
 import LitCircle26 from './ItemsPhotos/LitCircle26.png'
+import PortfolioReflection from './ItemsPhotos/PortfolioReflection.png'
 function App() {
   return (
     <div className="App">
@@ -78,6 +79,29 @@ function App() {
             </div>
           </div>
           <div className="section">
+          <div class="slide" data-anchor="slide1">
+            <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
+            <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
+            </button>
+                <h1>Portfolio Reflection</h1>
+              <div className="items">
+          
+                <div className="content">
+                  <a href={'https://docs.google.com/document/d/1StY3kzAhgMFClTs3N59t7MTxA7bNlhRSpJgMNubRC7o/edit?usp=sharing'} target='_blank'>
+                  <img src={PortfolioReflection} id={'Doc'}/>
+                  </a>
+                  <p>
+                  <a href={'https://docs.google.com/document/d/1StY3kzAhgMFClTs3N59t7MTxA7bNlhRSpJgMNubRC7o/edit?usp=sharing'} target='_blank'>
+                    Dual Credit British Literature I Portfolio Reflection
+                    </a>
+                    </p>
+                </div>
+              
+              </div>
+              
+              
+            </div>
+
             <div class="slide" data-anchor="slide1">
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
             <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
@@ -120,7 +144,7 @@ function App() {
               
               
             </div>
-            <div class="slide" data-anchor="slide2"> 
+            <div class="slide" data-anchor="slide3"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
             <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
             </button>
@@ -159,7 +183,7 @@ function App() {
                   </div>
               </div>
             </div>
-            <div class="slide" data-anchor="slide3"> 
+            <div class="slide" data-anchor="slide4"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
 
@@ -180,7 +204,7 @@ function App() {
               
               </div>
             </div>
-            <div class="slide" data-anchor="slide4"> 
+            <div class="slide" data-anchor="slide5"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
               <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
             </button>
@@ -200,7 +224,7 @@ function App() {
                 
               </div>
             </div>
-            <div class="slide" data-anchor="slide5"> 
+            <div class="slide" data-anchor="slide6"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
 
@@ -222,7 +246,7 @@ function App() {
                
               </div>
             </div>
-            <div class="slide" data-anchor="slide6">
+            <div class="slide" data-anchor="slide7">
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
 
@@ -272,7 +296,7 @@ function App() {
                
               </div>
             </div>
-            <div class="slide" data-anchor="slide7"> 
+            <div class="slide" data-anchor="slide8"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
 
@@ -322,7 +346,7 @@ function App() {
                   </div>
               </div>
             </div>
-            <div class="slide" data-anchor="slide8"> 
+            <div class="slide" data-anchor="slide9"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
 
@@ -373,7 +397,7 @@ function App() {
                
               </div>
             </div>
-            <div class="slide" data-anchor="slide9"> 
+            <div class="slide" data-anchor="slide10"> 
             <button onClick={() => fullpageApi.moveSectionUp()} id={'invis'}>
 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionUp()}>Click me to move up</AwesomeButton>
 
