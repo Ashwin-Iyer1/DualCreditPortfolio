@@ -63,7 +63,7 @@ function App() {
 
             </div>
             <div class="slide" data-anchor="slide4" style={{background:'#847966'}}> 
-            <img src={Catalina} id={'person'}/>
+            <img src={Catalina} id={'person'} style={{maxHeight: '300px'}}/>
               <h1>Catalina Lanuza</h1>
               <button onClick={() => fullpageApi.moveSectionDown()} id={'invis'}>
                 <AwesomeButton id={'coolbutton'}onPress={() => fullpageApi.moveSectionDown()}>Click me to move down</AwesomeButton>
